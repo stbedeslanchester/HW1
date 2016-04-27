@@ -11,4 +11,5 @@ All these programs MUST be well commented
 Extension:
 We’ve seen how the computer takes input with the line: input()
 This instruction actually returns a string, so we could assign it to a variable.
+
 7. Write a program that asks the user for their name, and age.  Both answers should be assigned to variables.  The program will output “Hello [name],  [age] isn’t too old!!”.
