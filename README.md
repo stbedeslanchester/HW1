@@ -5,7 +5,7 @@ All these programs MUST be well commented
 2. Amend the above program to print out ” __ + __ +___ +____ is ____”.  This must include the actual variables, concatenated to strings.
 3. Write a program which stores Your first and last name as a variable,  then prints them out together.
 4. Write a program that contains one print() statement only, but prints your address accurately on separate lines.
-5. Write a program that stores three dates invariables “format must be dd/mm/yyyy”  The year is then output by the program.
+5. Write a program that stores three dates in variables “format must be dd/mm/yyyy”  The year is then output by the program.
 6. My database is corrupted. All the email addresses have “#” instead of “@”.  Can you write a program that would replace this?
 
 Extension:
